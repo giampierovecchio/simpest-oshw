@@ -8,7 +8,9 @@ Contact: juandelvecchio@keysilence.com / https://keysilence.com for requests
 
 1. Introduction
 
-The name "SIMPEST+", the associated logo and the trademark "Key Silence" are the property of [Author/Key Silence]. This document defines the conditions for the correct use of the SIMPEST+ mark in accordance with the open-source license [CERN-OHL-S](LICENSE.md) and the additional clauses of the project.
+The name "SIMPEST+", the associated logo and the trademark "Key Silence" are the property of [Author/Key Silence]. This document defines the conditions for the correct use of the SIMPEST+ mark in accordance with the open-source license [CREATIVE COMMONS CORPORATION NON COMMERCIAL SHARE ALIKE 4.0 INTERNATIONAL
+PUBLIC LICENSE
+](LICENSE.md) and the additional clauses of the project.
 
 2. General Permits
 
@@ -94,7 +96,8 @@ To use the "SIMPEST+" brand in commercial products:
 
 7. Related Documentation
 
-- [Full License (CERN-OHL-S with additional clauses)](LICENSE.md)
+- [Full License (CREATIVE COMMONS CORPORATION NON COMMERCIAL SHARE ALIKE 4.0 INTERNATIONAL
+PUBLIC LICENSE)](LICENSE.md)
 
 - [Community Code of Conduct](CODE_OF_CONDUCT.md)
 
